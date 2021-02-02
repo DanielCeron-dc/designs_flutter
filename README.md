@@ -1,6 +1,6 @@
 # designs_flutter
 
-A new Flutter project.
+A space to practice design templates in flutter, started from basic tutorials.
 
 ## Getting Started
 
